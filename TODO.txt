@@ -1,0 +1,11 @@
+ Apart from the tasks given to us, we have :
+
+1)We need to work on the modules for solving of linear and quadratic equations
+2)We taught of using this "numpy.linalg.solve" module but didn't find enough time to re-search on it.
+3)We were trying to solve the cube one and we got an eaiser idea to solve for the rectangle but due to time problem we
+ weren't able to do rectangle using shorter method
+4)We even tried using OOP concept but later taught that the funcional programming is more efficent in this case
+5)With additional time we may able to complete the cube thing but we may show up some day saying that we have cracked the code.
+6)  Plotted the path of the light ray in the cavity in a graph.
+7)  Displayed appropriate error messages for every possible error and tried to make the program as interactive and easy to comprehend as possible.
+8)  Given the user the freedom to select a cavity of dimensions of his/her choice.
